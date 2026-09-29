@@ -619,8 +619,7 @@ function renderCommittee() {
             <div class="member-card reveal">
               <span class="member-role">Members</span>
               <div class="member-name">Dr. Sandeep Ushkewar</div>
-              <div class="member-org">IEEE Member, Assistant Professor (Senior Scale), STME, SVKM NMIMS Global
-                University Dhule</div>
+              <div class="member-org">Senior Member IEEE, Asst. Professor, SVKM NMIMS Global University,Dhule</div>
             </div>
             <div class="member-card reveal">
               <span class="member-role">Members</span>
